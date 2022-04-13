@@ -2,7 +2,7 @@
 
 ## 
 
-- 🔭 I'm currently working on an undergraduate rearch
+- 🔭 I'm currently working on a undergraduate rearch
 - 📚 I'm currently learning python 
 
 ## 
