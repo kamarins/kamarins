@@ -1,10 +1,9 @@
-### Oie! Prazer, meu chamo Karine Marins
+Hi 👋, I',m Karine Marins
 
 ## 
 
-- 🔭 Atualmente desenvolvo um projeto de iniciação científica 
-- 📚 Estou estudando python
-
+- 🔭 I'm currently working on an undergraduate rearch
+- 📚 I'm currently learning python 
 
 ## 
 
