@@ -2,8 +2,7 @@
 
 ## 
 
-- 🔭 I'm currently working on a undergraduate rearch
-- 📚 I'm currently learning python 
+- 🔭 I'm currently learning about Fuzzy Logic and writing an article about that
 
 ## 
 
