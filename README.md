@@ -2,7 +2,7 @@
 
 ## 
 
-- 🔭 I'm currently learning about Fuzzy Logic and writing an article about that
+- 🔭 I'm currently learning about Computer Vision.
 
 ## 
 
